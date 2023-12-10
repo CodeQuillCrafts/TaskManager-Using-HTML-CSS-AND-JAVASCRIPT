@@ -45,7 +45,7 @@ body {
 }
 
 .getter {
-    height: 100vh;
+    height: calc(100vh - 66.8px - 76px);
     background-color: rgb(147, 147, 187);
     overflow-y: scroll;
 }

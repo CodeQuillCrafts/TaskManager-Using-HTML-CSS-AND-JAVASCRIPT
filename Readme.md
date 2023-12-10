@@ -1,0 +1,3 @@
+- Task Manager
+- This Project is made with HTML CSS AND JAVASCRIPT
+- <a href="https://taskmanager-codequillcrafts.netlify.app" taget="_blank">View Live</a>
