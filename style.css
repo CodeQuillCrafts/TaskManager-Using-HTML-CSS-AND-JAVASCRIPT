@@ -52,7 +52,21 @@ body {
 .getter {
     height: calc(100vh - 66.8px - 76px);
     background-color: rgb(147, 147, 187);
-    overflow-y: scroll;
+    overflow-y: auto;
+}
+
+p {
+    width: 80%;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.icons {
+    width: 60px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
 }
 
 @media only screen and (max-width:768px) {
