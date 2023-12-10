@@ -39,6 +39,11 @@ body {
     width: 60%;
 }
 
+.setterInput:focus {
+    outline-color: turquoise;
+    color: green;
+}
+
 .setterBtn {
     padding: 4px;
     border-radius: 8px;
